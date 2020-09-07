@@ -1,0 +1,11 @@
+.all-button {
+  padding: 2%;
+  width: 135px;
+  margin-bottom: 5px;
+}
+
+.title {
+  display: inline-block;
+  margin-left: 5%;
+  color: rgb(167, 72, 196);
+}

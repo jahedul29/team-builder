@@ -1,0 +1,25 @@
+header {
+  width: 100%;
+  background-color: #125365;
+  height: 80px;
+}
+
+header strong {
+  font-size: 30px;
+  color: rgb(240, 236, 9);
+}
+
+header a {
+  text-decoration: none;
+  color: white;
+  margin-left: 5%;
+}
+
+header strong:hover {
+  text-decoration: none;
+}
+header a:hover,
+a:active {
+  text-decoration: none;
+  color: white;
+}
